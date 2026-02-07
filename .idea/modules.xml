@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Ark.iml" filepath="$PROJECT_DIR$/.idea/Ark.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ark-System/Ark-System.iml" filepath="$PROJECT_DIR$/Ark-System/Ark-System.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
     </modules>
   </component>
 </project>
